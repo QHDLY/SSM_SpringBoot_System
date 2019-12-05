@@ -1,5 +1,6 @@
 package cn.liuy;
 
+// 该项目使用SpringBoot与JPA的整合,对数据库的内容进行查询.
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
